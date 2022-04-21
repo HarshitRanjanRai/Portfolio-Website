@@ -1,1 +1,2 @@
-# Portfoli-Website
+A simple website with only HTML and CSS...
+I put my name on center and create two buttons that goes to my HackerRank and GitHub, and navbar is totally useless...but one can easily put links in it
